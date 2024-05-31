@@ -1,0 +1,7 @@
+C:\ProjetosDio\NewTalents\NewTalents\bin\Debug\NewTalents.exe.config
+C:\ProjetosDio\NewTalents\NewTalents\bin\Debug\NewTalents.exe
+C:\ProjetosDio\NewTalents\NewTalents\bin\Debug\NewTalents.pdb
+C:\ProjetosDio\NewTalents\NewTalents\obj\Debug\NewTalents.csproj.AssemblyReference.cache
+C:\ProjetosDio\NewTalents\NewTalents\obj\Debug\NewTalents.csproj.CoreCompileInputs.cache
+C:\ProjetosDio\NewTalents\NewTalents\obj\Debug\NewTalents.exe
+C:\ProjetosDio\NewTalents\NewTalents\obj\Debug\NewTalents.pdb
